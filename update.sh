@@ -11,3 +11,4 @@ python daily_arxiv.py --config_path config.yaml
 git add .
 git commit -m "📚 update"
 git push origin main
+git push

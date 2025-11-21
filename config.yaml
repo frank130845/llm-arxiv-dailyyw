@@ -3,7 +3,7 @@ repo_name: "llm-arxiv-dailyyw"
 show_authors: True
 show_links: False
 enable_code_lookup: False
-max_results: 12
+max_results: 50
 
 publish_readme: True
 publish_gitpage: True
@@ -16,9 +16,9 @@ md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
-    # "LLM Reasoning":
-    #     filters: ["LLM Reasoning", "LLM Thinking", "LLM Causal Reasoning", "LLM Commonsense Reasoning", "LLM Logical Reasoning", "Multimodal Reasoning", "MLLM Reasoning", "VLM Reasoning", "Multimodal LLM Reasoning"]
-    # # "LLM Evaluation":
+    "LLM Reasoning":
+        filters: ["LLM Reasoning", "LLM Thinking", "LLM Causal Reasoning", "LLM Commonsense Reasoning", "LLM Logical Reasoning", "Multimodal Reasoning", "MLLM Reasoning", "VLM Reasoning", "Multimodal LLM Reasoning"]
+    # "LLM Evaluation":
     # #     filters: ["LLM Evaluation", "Benchmark", "Vision-Language Benchmark", "LLM Benchmark", "LLM Evaluation Metric", "LLM Evaluation Protocol", "LLM Evaluation Dataset"]
     # # "LLM MLLM":
     #     filters: ["LLM", "Large Language Model", "MLLM", "Multi-modal Large Language Model", "Large Vision-Language Model", "Foundation Model", "Universal Model", "General Model"]
