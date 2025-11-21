@@ -3,7 +3,7 @@ repo_name: "llm-arxiv-dailyyw"
 show_authors: True
 show_links: False
 enable_code_lookup: False
-max_results: 120
+max_results: 12
 
 publish_readme: True
 publish_gitpage: True

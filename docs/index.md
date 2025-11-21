@@ -53,13 +53,13 @@ layout: default
 |**2025-11-20**|**EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards**|Omkat Thawakar et.al.|[2511.16672](http://arxiv.org/abs/2511.16672)|null|
 |**2025-11-20**|**Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation**|Ziyu Guo et.al.|[2511.16671](http://arxiv.org/abs/2511.16671)|null|
 |**2025-11-20**|**Learning to Think Fast and Slow for Visual Language Models**|Chenyu Lin et.al.|[2511.16670](http://arxiv.org/abs/2511.16670)|null|
-|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|**[link](https://github.com/KlingTeam/VANS)**|
-|**2025-11-20**|**SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation**|Zhenyuan Qin et.al.|[2511.16666](http://arxiv.org/abs/2511.16666)|**[link](https://github.com/FudanCVL/SceneDesigner)**|
-|**2025-11-20**|**Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies**|Zohar Rimon et.al.|[2511.16596](http://arxiv.org/abs/2511.16596)|**[link](https://github.com/zoharri/artificial-palpation)**|
+|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|null|
+|**2025-11-20**|**SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation**|Zhenyuan Qin et.al.|[2511.16666](http://arxiv.org/abs/2511.16666)|null|
+|**2025-11-20**|**Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies**|Zohar Rimon et.al.|[2511.16596](http://arxiv.org/abs/2511.16596)|null|
 |**2025-11-20**|**gfnx: Fast and Scalable Library for Generative Flow Networks in JAX**|Daniil Tiapkin et.al.|[2511.16592](http://arxiv.org/abs/2511.16592)|null|
 |**2025-11-20**|**Large Language Model-Based Reward Design for Deep Reinforcement Learning-Driven Autonomous Cyber Defense**|Sayak Mukherjee et.al.|[2511.16483](http://arxiv.org/abs/2511.16483)|null|
 |**2025-11-20**|**A Comparison Between Decision Transformers and Traditional Offline Reinforcement Learning Algorithms**|Ali Murtaza Caunhye et.al.|[2511.16475](http://arxiv.org/abs/2511.16475)|null|
-|**2025-11-20**|**OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe**|Kaichen Zhang et.al.|[2511.16334](http://arxiv.org/abs/2511.16334)|**[link](https://github.com/EvolvingLMMs-Lab/OpenMMReasoner)**|
+|**2025-11-20**|**OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe**|Kaichen Zhang et.al.|[2511.16334](http://arxiv.org/abs/2511.16334)|null|
 |**2025-11-20**|**Incorporating Self-Rewriting into Large Language Model Reasoning Reinforcement**|Jiashu Yao et.al.|[2511.16331](http://arxiv.org/abs/2511.16331)|null|
 |**2025-11-20**|**Safe and Optimal Variable Impedance Control via Certified Reinforcement Learning**|Shreyas Kumar et.al.|[2511.16330](http://arxiv.org/abs/2511.16330)|null|
 |**2025-11-20**|**Weakly Supervised Segmentation and Classification of Alpha-Synuclein Aggregates in Brightfield Midbrain Images**|Erwan Dereure et.al.|[2511.16268](http://arxiv.org/abs/2511.16268)|null|
