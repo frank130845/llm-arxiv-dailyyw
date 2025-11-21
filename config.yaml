@@ -3,7 +3,7 @@ user_name: "frank130845"
 repo_name: "llm-arxiv-dailyyw"
 show_authors: True
 show_links: True
-max_results: 100
+max_results: 12
 
 publish_readme: True
 publish_gitpage: True
