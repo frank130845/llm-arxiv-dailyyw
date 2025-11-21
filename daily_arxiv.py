@@ -16,6 +16,7 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 PWC_PAPER_API = "https://paperswithcode.com/api/v1/papers/"
 PWC_SEARCH_API = "https://paperswithcode.com/api/v1/search/"
 REQUEST_TIMEOUT = 10
+ENABLE_CODE_LOOKUP = True
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
@@ -196,6 +197,8 @@ def fetch_repo_from_pwc(paper_id: str, paper_title: str) -> Optional[str]:
 
 def resolve_repo_url(paper_id: str, paper_title: str) -> Optional[str]:
     """Find a code repository using Papers With Code and fall back to GitHub search."""
+    if not ENABLE_CODE_LOOKUP:
+        return None
     repo_url = fetch_repo_from_pwc(paper_id, paper_title)
     if repo_url:
         return repo_url
@@ -446,6 +449,10 @@ def demo(**config):
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
+    global ENABLE_CODE_LOOKUP
+    ENABLE_CODE_LOOKUP = config.get('enable_code_lookup', True)
+    if not ENABLE_CODE_LOOKUP:
+        logging.info("Code link lookup disabled via config.")
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')

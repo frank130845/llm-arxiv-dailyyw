@@ -1,8 +1,8 @@
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "frank130845"
 repo_name: "llm-arxiv-dailyyw"
 show_authors: True
 show_links: False
+enable_code_lookup: False
 max_results: 120
 
 publish_readme: True
