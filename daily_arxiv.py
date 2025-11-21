@@ -124,34 +124,32 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_url = arxiv_url + 'abs/' + paper_key
         
         try:
-            # source code link    
-            r = requests.get(code_url).json()
+            # Always attempt fallback regardless of SSL failure
             repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
+            try:
+                r = requests.get(code_url).json()
+                if "official" in r and r["official"]:
+                    repo_url = r["official"]["url"]
+            except Exception as e:
+                logging.warning(f"[Fallback] paperswithcode failed for {paper_id}, trying GitHub fallback")
+
+            # fallback: GitHub title search
+            if repo_url is None:
+                repo_url = get_code_link(paper_title)
+                if repo_url is None:
+                    repo_url = get_code_link(paper_key)
+
+            # Always write paper into markdown/json — even without repo_url
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                    update_time, paper_title, paper_first_author, paper_key, paper_url, repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
+                    update_time, paper_title, paper_first_author, paper_url, paper_url, repo_url, repo_url)
             else:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
+                    update_time, paper_title, paper_first_author, paper_key, paper_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+                    update_time, paper_title, paper_first_author, paper_url, paper_url)
 
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
