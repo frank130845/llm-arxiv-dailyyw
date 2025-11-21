@@ -13,3 +13,14 @@ layout: default
 |**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|**[link](https://github.com/KlingTeam/VANS)**|
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
 
+## LLM MLLM
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**Dataset Distillation for Pre-Trained Self-Supervised Vision Models**|George Cazenavette et.al.|[2511.16674](http://arxiv.org/abs/2511.16674)|null|
+|**2025-11-20**|**EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards**|Omkat Thawakar et.al.|[2511.16672](http://arxiv.org/abs/2511.16672)|null|
+|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|**[link](https://github.com/KlingTeam/VANS)**|
+|**2025-11-20**|**V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models**|Yang Luo et.al.|[2511.16668](http://arxiv.org/abs/2511.16668)|null|
+|**2025-11-20**|**SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation**|Zhenyuan Qin et.al.|[2511.16666](http://arxiv.org/abs/2511.16666)|**[link](https://github.com/FudanCVL/SceneDesigner)**|
+|**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
+
