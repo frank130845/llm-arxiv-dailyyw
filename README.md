@@ -4,6 +4,7 @@
   <ol>
     <li><a href=#llm-reasoning>LLM Reasoning</a></li>
     <li><a href=#llm-mllm>LLM MLLM</a></li>
+    <li><a href=#process-reward>Process Reward</a></li>
   </ol>
 </details>
 
@@ -51,6 +52,40 @@
 |**2025-11-20**|**V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models**|Yang Luo et.al.|[2511.16668](http://arxiv.org/abs/2511.16668)|null|
 |**2025-11-20**|**SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation**|Zhenyuan Qin et.al.|[2511.16666](http://arxiv.org/abs/2511.16666)|**[link](https://github.com/FudanCVL/SceneDesigner)**|
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
+
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
+
+## Process Reward
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-11-20**|**EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards**|Omkat Thawakar et.al.|[2511.16672](http://arxiv.org/abs/2511.16672)|null|
+|**2025-11-20**|**Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation**|Ziyu Guo et.al.|[2511.16671](http://arxiv.org/abs/2511.16671)|null|
+|**2025-11-20**|**Learning to Think Fast and Slow for Visual Language Models**|Chenyu Lin et.al.|[2511.16670](http://arxiv.org/abs/2511.16670)|null|
+|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|**[link](https://github.com/KlingTeam/VANS)**|
+|**2025-11-20**|**SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation**|Zhenyuan Qin et.al.|[2511.16666](http://arxiv.org/abs/2511.16666)|**[link](https://github.com/FudanCVL/SceneDesigner)**|
+|**2025-11-20**|**Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies**|Zohar Rimon et.al.|[2511.16596](http://arxiv.org/abs/2511.16596)|**[link](https://github.com/zoharri/artificial-palpation)**|
+|**2025-11-19**|**DEPO: Dual-Efficiency Preference Optimization for LLM Agents**|Sirui Chen et.al.|[2511.15392](http://arxiv.org/abs/2511.15392)|**[link](https://github.com/OpenCausaLab/DEPO)**|
+|**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
+|**2025-11-19**|**ChartEditor: A Reinforcement Learning Framework for Robust Chart Editing**|Liangyu Chen et.al.|[2511.15266](http://arxiv.org/abs/2511.15266)|null|
+|**2025-11-19**|**GRPO-RM: Fine-Tuning Representation Models via GRPO-Driven Reinforcement Learning**|Yanchen Xu et.al.|[2511.15256](http://arxiv.org/abs/2511.15256)|null|
+|**2025-11-19**|**Reasoning in Diffusion Large Language Models is Concentrated in Dynamic Confusion Zones**|Ranfei Chen et.al.|[2511.15208](http://arxiv.org/abs/2511.15208)|null|
+|**2025-11-17**|**Preference-Based Learning in Audio Applications: A Systematic Analysis**|Aaron Broukhim et.al.|[2511.13936](http://arxiv.org/abs/2511.13936)|null|
+|**2025-11-17**|**Start Small, Think Big: Curriculum-based Relative Policy Optimization for Visual Grounding**|Qingyang Yan et.al.|[2511.13924](http://arxiv.org/abs/2511.13924)|null|
+|**2025-11-17**|**SAE-MCVT: A Real-Time and Scalable Multi-Camera Vehicle Tracking Framework Powered by Edge Computing**|Yuqiang Lin et.al.|[2511.13904](http://arxiv.org/abs/2511.13904)|null|
+|**2025-11-17**|**TaoSearchEmb: A Multi-Objective Reinforcement Learning Framework for Dense Retrieval in Taobao Search**|Xingxian Liu et.al.|[2511.13885](http://arxiv.org/abs/2511.13885)|null|
+|**2025-11-17**|**UnSAMv2: Self-Supervised Learning Enables Segment Anything at Any Granularity**|Junwei Yu et.al.|[2511.13714](http://arxiv.org/abs/2511.13714)|**[link](https://github.com/yujunwei04/UnSAMv2)**|
+|**2025-11-17**|**TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models**|Harold Haodong Chen et.al.|[2511.13704](http://arxiv.org/abs/2511.13704)|**[link](https://github.com/EnVision-Research/TiViBench)**|
+|**2025-11-16**|**Optimal Foraging in Memory Retrieval: Evaluating Random Walks and Metropolis-Hastings Sampling in Modern Semantic Spaces**|James Moore et.al.|[2511.12759](http://arxiv.org/abs/2511.12759)|null|
+|**2025-11-16**|**Are LLMs The Way Forward? A Case Study on LLM-Guided Reinforcement Learning for Decentralized Autonomous Driving**|Timur Anvar et.al.|[2511.12751](http://arxiv.org/abs/2511.12751)|null|
+|**2025-11-16**|**Beyond Fixed Tasks: Unsupervised Environment Design for Task-Level Pairs**|Daniel Furelos-Blanco et.al.|[2511.12706](http://arxiv.org/abs/2511.12706)|null|
+|**2025-11-16**|**Quantum Hyperdimensional Computing: a foundational paradigm for quantum neuromorphic architectures**|Fabio Cumbo et.al.|[2511.12664](http://arxiv.org/abs/2511.12664)|null|
+|**2025-11-16**|**Reason-KE++: Aligning the Process, Not Just the Outcome, for Faithful LLM Knowledge Editing**|Yuchen Wu et.al.|[2511.12661](http://arxiv.org/abs/2511.12661)|null|
+|**2025-11-15**|**EARL: Entropy-Aware RL Alignment of LLMs for Reliable RTL Code Generation**|Jiahe Shi et.al.|[2511.12033](http://arxiv.org/abs/2511.12033)|null|
+|**2025-11-15**|**LithoSeg: A Coarse-to-Fine Framework for High-Precision Lithography Segmentation**|Xinyu He et.al.|[2511.12005](http://arxiv.org/abs/2511.12005)|null|
+|**2025-11-15**|**Look As You Think: Unifying Reasoning and Visual Evidence Attribution for Verifiable Document RAG via Reinforcement Learning**|Shuochen Liu et.al.|[2511.12003](http://arxiv.org/abs/2511.12003)|**[link](https://github.com/PolarisLiu1/LAT)**|
+|**2025-11-15**|**A Reasoning Paradigm for Named Entity Recognition**|Hui Huang et.al.|[2511.11978](http://arxiv.org/abs/2511.11978)|null|
+|**2025-11-15**|**Image-POSER: Reflective RL for Multi-Expert Image Generation and Editing**|Hossein Mohebbi et.al.|[2511.11780](http://arxiv.org/abs/2511.11780)|**[link](https://github.com/phutq341/PhuDepTrai)**|
 
 <p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 

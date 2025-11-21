@@ -7,12 +7,15 @@ import logging
 import argparse
 import datetime
 import requests
+from typing import Any, Iterable, List, Optional, Tuple
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
-base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
+PWC_PAPER_API = "https://paperswithcode.com/api/v1/papers/"
+PWC_SEARCH_API = "https://paperswithcode.com/api/v1/search/"
+REQUEST_TIMEOUT = 10
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
@@ -61,7 +64,6 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output    
-import requests
 
 def get_code_link(qword:str) -> str:
     """
@@ -83,6 +85,126 @@ def get_code_link(qword:str) -> str:
     if results["total_count"] > 0:
         code_link = results["items"][0]["html_url"]
     return code_link
+
+def _normalize_url(value: Any) -> Optional[str]:
+    """Return a HTTP URL if the provided value looks like one."""
+    if isinstance(value, str) and value.startswith("http"):
+        return value
+    if isinstance(value, dict):
+        url = value.get("url") or value.get("link")
+        if isinstance(url, str) and url.startswith("http"):
+            return url
+    return None
+
+def _extract_repo_url_from_entry(entry: Any) -> Optional[str]:
+    if not isinstance(entry, dict):
+        return None
+    candidate_keys: Iterable[str] = (
+        "official_code_url",
+        "code_url",
+        "repository_url",
+        "repo_url",
+        "code",
+        "url",
+    )
+    for key in candidate_keys:
+        url = _normalize_url(entry.get(key))
+        if url:
+            return url
+
+    official = _normalize_url(entry.get("official"))
+    if official:
+        return official
+
+    for nested_key in (
+        "links",
+        "repositories",
+        "codes",
+        "code_links",
+        "latest_code_results",
+        "results",
+    ):
+        url = _extract_repo_url(entry.get(nested_key))
+        if url:
+            return url
+
+    paper = entry.get("paper")
+    if paper:
+        url = _extract_repo_url_from_entry(paper)
+        if url:
+            return url
+
+    return None
+
+def _extract_repo_url(payload: Any) -> Optional[str]:
+    if payload is None:
+        return None
+    if isinstance(payload, list):
+        for item in payload:
+            url = _extract_repo_url(item)
+            if url:
+                return url
+        return None
+    if isinstance(payload, dict):
+        url = _extract_repo_url_from_entry(payload)
+        if url:
+            return url
+        for key in ("results", "papers", "items", "data"):
+            url = _extract_repo_url(payload.get(key))
+            if url:
+                return url
+        return None
+    return _normalize_url(payload)
+
+def fetch_repo_from_pwc(paper_id: str, paper_title: str) -> Optional[str]:
+    """Query Papers With Code v1 endpoints using either arXiv id or title."""
+    endpoints: List[Tuple[str, Optional[dict]]] = []
+    if paper_id:
+        endpoints.append((f"{PWC_PAPER_API}{paper_id}", None))
+        endpoints.append((PWC_PAPER_API, {"arxiv_id": paper_id}))
+    if paper_title:
+        endpoints.append((PWC_SEARCH_API, {"q": paper_title}))
+
+    visited = set()
+    for url, params in endpoints:
+        key = (url, tuple(sorted((params or {}).items())))
+        if key in visited:
+            continue
+        visited.add(key)
+
+        try:
+            resp = requests.get(url, params=params, timeout=REQUEST_TIMEOUT)
+        except Exception as exc:
+            logging.warning(f"Papers With Code request failed ({url}): {exc}")
+            continue
+
+        if resp.status_code != 200:
+            logging.debug(f"Papers With Code returned {resp.status_code} for {url}")
+            continue
+
+        try:
+            payload = resp.json()
+        except ValueError as exc:
+            logging.warning(f"Papers With Code returned invalid JSON ({url}): {exc}")
+            continue
+
+        repo_url = _extract_repo_url(payload)
+        if repo_url:
+            return repo_url
+
+    return None
+
+def resolve_repo_url(paper_id: str, paper_title: str) -> Optional[str]:
+    """Find a code repository using Papers With Code and fall back to GitHub search."""
+    repo_url = fetch_repo_from_pwc(paper_id, paper_title)
+    if repo_url:
+        return repo_url
+
+    repo_url = get_code_link(paper_title)
+    if repo_url:
+        return repo_url
+
+    return get_code_link(paper_id)
   
 def get_daily_papers(topic,query="slam", max_results=2):
     """
@@ -104,7 +226,6 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
@@ -124,22 +245,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_url = arxiv_url + 'abs/' + paper_key
         
         try:
-            # Always attempt fallback regardless of SSL failure
-            repo_url = None
-            try:
-                r = requests.get(code_url).json()
-                if "official" in r and r["official"]:
-                    repo_url = r["official"]["url"]
-            except Exception as e:
-                logging.warning(f"[Fallback] paperswithcode failed for {paper_id}, trying GitHub fallback")
+            repo_url = resolve_repo_url(paper_key, paper_title)
 
-            # fallback: GitHub title search
-            if repo_url is None:
-                repo_url = get_code_link(paper_title)
-                if repo_url is None:
-                    repo_url = get_code_link(paper_key)
-
-            # Always write paper into markdown/json — even without repo_url
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
                     update_time, paper_title, paper_first_author, paper_key, paper_url, repo_url)
@@ -196,15 +303,11 @@ def update_paper_links(filename):
                 if valid_link:
                     continue
                 try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
-                    repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
+                    repo_url = resolve_repo_url(paper_id, paper_title)
+                    if repo_url is not None:
+                        new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                        logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                        json_data[keywords][paper_id] = str(new_cont)
 
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")

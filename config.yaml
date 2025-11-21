@@ -24,4 +24,7 @@ keywords:
     #     filters: ["LLM", "Large Language Model", "MLLM", "Multi-modal Large Language Model", "Large Vision-Language Model", "Foundation Model", "Universal Model", "General Model"]
     # # "Video Understanding":
     #     filters: ["Video Understanding", "Video Caption", "Visual Language Navigation", "Video Question Answering", "Video Recognition", "Video Retrieval", "Video Generation"]
-    "Process Reward": ["Process Supervision","Process Supervised Fine-Tuning","Reward Modeling","Stepwise Reward","Chain-of-Thought Reward","Trajectory-Level Reward","LLM Reward Optimization","Process-Level Feedback","LLM Intermediate Feedback","Process-Level Reward","Fine-Grained Reward Signal","Multi-Step Reward","Critique-as-Reward"]
+   
+   
+    "Process Reward":
+        filters: ["Process Supervision", "Process Supervised Fine-Tuning", "Reward Modeling", "Stepwise Reward", "Chain-of-Thought Reward", "Trajectory-Level Reward", "LLM Reward Optimization", "Process-Level Feedback", "LLM Intermediate Feedback", "Process-Level Reward", "Fine-Grained Reward Signal", "Multi-Step Reward", "Critique-as-Reward"]
