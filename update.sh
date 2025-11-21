@@ -1,6 +1,7 @@
 cd ~/frank/llm-arxiv-daily
 
 # 激活虚拟环境（换成你自己的）
+conda init
 conda activate arxiv
 
 # 运行脚本
