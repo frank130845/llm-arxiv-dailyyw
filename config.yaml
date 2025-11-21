@@ -3,7 +3,7 @@ user_name: "frank130845"
 repo_name: "llm-arxiv-dailyyw"
 show_authors: True
 show_links: False
-max_results: 12
+max_results: 120
 
 publish_readme: True
 publish_gitpage: True
@@ -20,7 +20,7 @@ keywords:
         filters: ["LLM Reasoning", "LLM Thinking", "LLM Causal Reasoning", "LLM Commonsense Reasoning", "LLM Logical Reasoning", "Multimodal Reasoning", "MLLM Reasoning", "VLM Reasoning", "Multimodal LLM Reasoning"]
     # "LLM Evaluation":
     #     filters: ["LLM Evaluation", "Benchmark", "Vision-Language Benchmark", "LLM Benchmark", "LLM Evaluation Metric", "LLM Evaluation Protocol", "LLM Evaluation Dataset"]
-    "LLM MLLM":
-        filters: ["LLM", "Large Language Model", "MLLM", "Multi-modal Large Language Model", "Large Vision-Language Model", "Foundation Model", "Universal Model", "General Model"]
-    # "Video Understanding":
+    # "LLM MLLM":
+    #     filters: ["LLM", "Large Language Model", "MLLM", "Multi-modal Large Language Model", "Large Vision-Language Model", "Foundation Model", "Universal Model", "General Model"]
+    # # "Video Understanding":
     #     filters: ["Video Understanding", "Video Caption", "Visual Language Navigation", "Video Question Answering", "Video Recognition", "Video Retrieval", "Video Generation"]
