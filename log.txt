@@ -5,3 +5,6 @@
  create mode 100644 log.txt
  create mode 100755 update.sh
 fatal: could not read Username for 'https://github.com': 没有那个设备或地址
+/home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
