@@ -144,3 +144,11 @@ Everything up-to-date
 /home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
+[main 872ec84] 📚 update
+ 1 file changed, 8 insertions(+)
+To https://github.com/frank130845/llm-arxiv-dailyyw.git
+   b1b0cd3..872ec84  main -> main
+Everything up-to-date
+/home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
