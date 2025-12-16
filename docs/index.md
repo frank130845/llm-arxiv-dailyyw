@@ -2,11 +2,61 @@
 layout: default
 ---
 
-## Updated on 2025.11.21
+## Updated on 2025.12.16
 ## Process Reward
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|null|
+|**2025-12-15**|**Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model**|Siyan Chen et.al.|[2512.13507](http://arxiv.org/abs/2512.13507)|null|
+|**2025-12-14**|**CoDA: A Context-Decoupled Hierarchical Agent with Reinforcement Learning**|Xuanzhang Liu et.al.|[2512.12716](http://arxiv.org/abs/2512.12716)|null|
+|**2025-12-09**|**Aesthetic Alignment Risks Assimilation: How Image Generation and Reward Models Reinforce Beauty Bias and Ideological "Censorship"**|Wenqi Marshall Guo et.al.|[2512.11883](http://arxiv.org/abs/2512.11883)|null|
+|**2025-12-04**|**Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines**|Haoyang Shang et.al.|[2512.11844](http://arxiv.org/abs/2512.11844)|null|
+|**2025-12-11**|**Limits and Gains of Test-Time Scaling in Vision-Language Reasoning**|Mohammadjavad Ahmadpour et.al.|[2512.11109](http://arxiv.org/abs/2512.11109)|null|
+|**2025-12-11**|**Multi-Objective Reward and Preference Optimization: Theory and Algorithms**|Akhil Agnihotri et.al.|[2512.10601](http://arxiv.org/abs/2512.10601)|null|
+|**2025-12-11**|**RoleRMBench & RoleRM: Towards Reward Modeling for Profile-Based Role Play in Dialogue Systems**|Hang Ding et.al.|[2512.10575](http://arxiv.org/abs/2512.10575)|null|
+|**2025-12-11**|**LLM-Auction: Generative Auction towards LLM-Native Advertising**|Chujie Zhao et.al.|[2512.10551](http://arxiv.org/abs/2512.10551)|null|
+|**2025-12-11**|**Multi-dimensional Preference Alignment by Conditioning Reward Itself**|Jiho Jang et.al.|[2512.10237](http://arxiv.org/abs/2512.10237)|null|
+|**2025-12-10**|**Targeting Misalignment: A Conflict-Aware Framework for Reward-Model-based LLM Alignment**|Zixuan Liu et.al.|[2512.09212](http://arxiv.org/abs/2512.09212)|null|
+|**2025-12-01**|**Financial Instruction Following Evaluation (FIFE)**|Glenn Matlin et.al.|[2512.08965](http://arxiv.org/abs/2512.08965)|null|
+|**2025-12-09**|**Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents**|Xiang Chen et.al.|[2512.08870](http://arxiv.org/abs/2512.08870)|null|
+|**2025-12-09**|**Fluent Alignment with Disfluent Judges: Post-training for Lower-resource Languages**|David Samuel et.al.|[2512.08777](http://arxiv.org/abs/2512.08777)|null|
+|**2025-12-09**|**TreeGRPO: Tree-Advantage GRPO for Online RL Post-Training of Diffusion Models**|Zheng Ding et.al.|[2512.08153](http://arxiv.org/abs/2512.08153)|null|
+|**2025-12-08**|**On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**|Charlie Zhang et.al.|[2512.07783](http://arxiv.org/abs/2512.07783)|null|
+|**2025-12-08**|**Each Prompt Matters: Scaling Reinforcement Learning Without Wasting Rollouts on Hundred-Billion-Scale MoE**|Anxiang Zeng et.al.|[2512.07710](http://arxiv.org/abs/2512.07710)|null|
+|**2025-12-08**|**LongCat-Image Technical Report**|Meituan LongCat Team et.al.|[2512.07584](http://arxiv.org/abs/2512.07584)|null|
+|**2025-12-07**|**Parent-Guided Semantic Reward Model (PGSRM): Embedding-Based Reward Functions for Reinforcement Learning of Transformer Language Models**|Alexandr Plashchinsky et.al.|[2512.06920](http://arxiv.org/abs/2512.06920)|null|
+|**2025-12-06**|**ProSocialAlign: Preference Conditioned Test Time Alignment in Language Models**|Somnath Banerjee et.al.|[2512.06515](http://arxiv.org/abs/2512.06515)|null|
+|**2025-12-06**|**When Distance Distracts: Representation Distance Bias in BT-Loss for Reward Models**|Tong Xie et.al.|[2512.06343](http://arxiv.org/abs/2512.06343)|null|
+|**2025-12-05**|**ARCANE: A Multi-Agent Framework for Interpretable and Configurable Alignment**|Charlie Masters et.al.|[2512.06196](http://arxiv.org/abs/2512.06196)|null|
+|**2025-12-05**|**RoBoN: Routed Online Best-of-n for Test-Time Scaling with Multiple LLMs**|Jonathan Geuter et.al.|[2512.05542](http://arxiv.org/abs/2512.05542)|null|
+|**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
+|**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
+|**2025-12-02**|**PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling**|Bowen Ping et.al.|[2512.04784](http://arxiv.org/abs/2512.04784)|null|
+|**2025-12-04**|**Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space**|Joey Hong et.al.|[2512.04601](http://arxiv.org/abs/2512.04601)|null|
+|**2025-12-04**|**RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS**|Cong Wang et.al.|[2512.04552](http://arxiv.org/abs/2512.04552)|null|
+|**2025-12-03**|**Towards better dense rewards in Reinforcement Learning Applications**|Shuyuan Zhang et.al.|[2512.04302](http://arxiv.org/abs/2512.04302)|null|
+|**2025-12-03**|**Highly Efficient Test-Time Scaling for T2I Diffusion Models with Text Embedding Perturbation**|Hang Xu et.al.|[2512.03996](http://arxiv.org/abs/2512.03996)|null|
+|**2025-12-03**|**PretrainZero: Reinforcement Active Pretraining**|Xingrun Xing et.al.|[2512.03442](http://arxiv.org/abs/2512.03442)|null|
+|**2025-12-02**|**SPARK: Stepwise Process-Aware Rewards for Reference-Free Reinforcement Learning**|Salman Rahman et.al.|[2512.03244](http://arxiv.org/abs/2512.03244)|null|
+|**2025-12-02**|**Uncertainty Quantification for Large Language Model Reward Learning under Heterogeneous Human Feedback**|Pangpang Liu et.al.|[2512.03208](http://arxiv.org/abs/2512.03208)|null|
+|**2025-12-02**|**Hierarchical Process Reward Models are Symbolic Vision Learners**|Shan Zhang et.al.|[2512.03126](http://arxiv.org/abs/2512.03126)|null|
+|**2025-12-02**|**E-valuator: Reliable Agent Verifiers with Sequential Hypothesis Testing**|Shuvom Sadhuka et.al.|[2512.03109](http://arxiv.org/abs/2512.03109)|null|
+|**2025-12-02**|**A benchmark dataset for evaluating Syndrome Differentiation and Treatment in large language models**|Kunning Li et.al.|[2512.02816](http://arxiv.org/abs/2512.02816)|null|
+|**2025-12-02**|**SR-GRPO: Stable Rank as an Intrinsic Geometric Reward for Large Language Model Alignment**|Yixuan Tang et.al.|[2512.02807](http://arxiv.org/abs/2512.02807)|null|
+|**2025-12-01**|**IC-World: In-Context Generation for Shared World Modeling**|Fan Wu et.al.|[2512.02793](http://arxiv.org/abs/2512.02793)|null|
+|**2025-12-02**|**Generative Multi-modal Feedback for Singing Voice Synthesis Evaluation**|Xueyan Li et.al.|[2512.02523](http://arxiv.org/abs/2512.02523)|null|
+|**2025-12-01**|**Rectifying LLM Thought from Lens of Optimization**|Junnan Liu et.al.|[2512.01925](http://arxiv.org/abs/2512.01925)|null|
+|**2025-12-02**|**OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic**|Songyan Zhang et.al.|[2512.01830](http://arxiv.org/abs/2512.01830)|null|
+|**2025-12-03**|**ZIP-RC: Optimizing Test-Time Compute via Zero-Overhead Joint Reward-Cost Prediction**|Rohin Manvi et.al.|[2512.01457](http://arxiv.org/abs/2512.01457)|null|
+|**2025-12-04**|**ViRectify: A Challenging Benchmark for Video Reasoning Correction with Multimodal Large Language Models**|Xusen Hei et.al.|[2512.01424](http://arxiv.org/abs/2512.01424)|null|
+|**2025-12-01**|**Generative Adversarial Gumbel MCTS for Abstract Visual Composition Generation**|Zirui Zhao et.al.|[2512.01242](http://arxiv.org/abs/2512.01242)|null|
+|**2025-12-01**|**CoSineVerifier: Tool-Augmented Answer Verification for Computation-Oriented Scientific Questions**|Ruixiang Feng et.al.|[2512.01224](http://arxiv.org/abs/2512.01224)|null|
+|**2025-11-30**|**Optimizing Generative Ranking Relevance via Reinforcement Learning in Xiaohongshu Search**|Ziyang Zeng et.al.|[2512.00968](http://arxiv.org/abs/2512.00968)|null|
+|**2025-11-30**|**Reward Auditor: Inference on Reward Modeling Suitability in Real-World Perturbed Scenarios**|Jianxiang Zang et.al.|[2512.00920](http://arxiv.org/abs/2512.00920)|null|
+|**2025-12-09**|**IRPO: Boosting Image Restoration via Post-training GRPO**|Haoxuan Xu et.al.|[2512.00814](http://arxiv.org/abs/2512.00814)|null|
+|**2025-11-30**|**Upcycled and Merged MoE Reward Model for Mitigating Reward Hacking**|Lingling Fu et.al.|[2512.00724](http://arxiv.org/abs/2512.00724)|null|
+|**2025-11-29**|**FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal**|Hang Xu et.al.|[2512.00438](http://arxiv.org/abs/2512.00438)|null|
 |**2025-11-20**|**EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards**|Omkat Thawakar et.al.|[2511.16672](http://arxiv.org/abs/2511.16672)|null|
 |**2025-11-20**|**Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation**|Ziyu Guo et.al.|[2511.16671](http://arxiv.org/abs/2511.16671)|null|
 |**2025-11-20**|**Learning to Think Fast and Slow for Visual Language Models**|Chenyu Lin et.al.|[2511.16670](http://arxiv.org/abs/2511.16670)|null|
@@ -62,6 +112,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning**|Jiaru Zou et.al.|[2512.13278](http://arxiv.org/abs/2512.13278)|null|
+|**2025-12-15**|**MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion**|Minghui Hou et.al.|[2512.13177](http://arxiv.org/abs/2512.13177)|null|
+|**2025-12-15**|**TraPO: A Semi-Supervised Reinforcement Learning Framework for Boosting LLM Reasoning**|Shenzhi Yang et.al.|[2512.13106](http://arxiv.org/abs/2512.13106)|null|
+|**2025-12-14**|**SignRAG: A Retrieval-Augmented System for Scalable Zero-Shot Road Sign Recognition**|Minghao Zhu et.al.|[2512.12885](http://arxiv.org/abs/2512.12885)|null|
+|**2025-12-14**|**Reassessing the Role of Supervised Fine-Tuning: An Empirical Study in VLM Reasoning**|Yongcan Yu et.al.|[2512.12690](http://arxiv.org/abs/2512.12690)|null|
+|**2025-12-14**|**Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space**|Chengzhi Liu et.al.|[2512.12623](http://arxiv.org/abs/2512.12623)|null|
+|**2025-12-13**|**More Than the Final Answer: Improving Visual Extraction and Logical Consistency in Vision-Language Models**|Hoang Anh Just et.al.|[2512.12487](http://arxiv.org/abs/2512.12487)|null|
+|**2025-12-13**|**Cognitive-YOLO: LLM-Driven Architecture Synthesis from First Principles of Data for Object Detection**|Jiahao Zhao et.al.|[2512.12281](http://arxiv.org/abs/2512.12281)|null|
+|**2025-12-13**|**Journey Before Destination: On the importance of Visual Faithfulness in Slow Thinking**|Rheeya Uppaal et.al.|[2512.12218](http://arxiv.org/abs/2512.12218)|null|
+|**2025-12-12**|**How AI Agents Follow the Herd of AI? Network Effects, History, and Machine Optimism**|Yu Liu et.al.|[2512.11943](http://arxiv.org/abs/2512.11943)|null|
+|**2025-12-10**|**Causal Strengths and Leaky Beliefs: Interpreting LLM Reasoning via Noisy-OR Causal Bayes Nets**|Hanna Dettki et.al.|[2512.11909](http://arxiv.org/abs/2512.11909)|null|
+|**2025-12-12**|**Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing**|Xu Zhang et.al.|[2512.11680](http://arxiv.org/abs/2512.11680)|null|
+|**2025-12-12**|**Exploring MLLM-Diffusion Information Transfer with MetaCanvas**|Han Lin et.al.|[2512.11464](http://arxiv.org/abs/2512.11464)|null|
+|**2025-12-10**|**KBQA-R1: Reinforcing Large Language Models for Knowledge Base Question Answering**|Xin Sun et.al.|[2512.10999](http://arxiv.org/abs/2512.10999)|null|
+|**2025-12-11**|**LabelFusion: Learning to Fuse LLMs and Transformer Classifiers for Robust Text Classification**|Michael Schlee et.al.|[2512.10793](http://arxiv.org/abs/2512.10793)|null|
+|**2025-12-11**|**AgriGPT-Omni: A Unified Speech-Vision-Text Framework for Multilingual Agricultural Intelligence**|Bo Yang et.al.|[2512.10624](http://arxiv.org/abs/2512.10624)|null|
+|**2025-12-11**|**LLM-Empowered Representation Learning for Emerging Item Recommendation**|Ziying Zhang et.al.|[2512.10370](http://arxiv.org/abs/2512.10370)|null|
+|**2025-12-11**|**CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates**|Shresth Grover et.al.|[2512.10342](http://arxiv.org/abs/2512.10342)|null|
+|**2025-12-11**|**Investigating The Functional Roles of Attention Heads in Vision Language Models: Evidence for Reasoning Modules**|Yanbei Jiang et.al.|[2512.10300](http://arxiv.org/abs/2512.10300)|null|
+|**2025-12-11**|**Studying and Automating Issue Resolution for Software Quality**|Antu Saha et.al.|[2512.10238](http://arxiv.org/abs/2512.10238)|null|
+|**2025-12-10**|**LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al.|[2512.09627](http://arxiv.org/abs/2512.09627)|null|
+|**2025-12-10**|**Rethinking Chain-of-Thought Reasoning for Videos**|Yiwu Zhong et.al.|[2512.09616](http://arxiv.org/abs/2512.09616)|null|
+|**2025-12-10**|**Are Hypervectors Enough? Single-Call LLM Reasoning over Knowledge Graphs**|Yezi Liu et.al.|[2512.09369](http://arxiv.org/abs/2512.09369)|null|
+|**2025-12-10**|**View-on-Graph: Zero-shot 3D Visual Grounding via Vision-Language Reasoning on Scene Graphs**|Yuanyuan Liu et.al.|[2512.09215](http://arxiv.org/abs/2512.09215)|null|
+|**2025-12-09**|**No Labels, No Problem: Training Visual Reasoners with Multimodal Verifiers**|Damiano Marsili et.al.|[2512.08889](http://arxiv.org/abs/2512.08889)|null|
+|**2025-12-09**|**Beyond Real Weights: Hypercomplex Representations for Stable Quantization**|Jawad Ibn Ahad et.al.|[2512.08524](http://arxiv.org/abs/2512.08524)|null|
+|**2025-12-09**|**Disrupting Hierarchical Reasoning: Adversarial Protection for Geographic Privacy in Multimodal Reasoning Models**|Jiaming Zhang et.al.|[2512.08503](http://arxiv.org/abs/2512.08503)|null|
+|**2025-12-09**|**Learning Robot Manipulation from Audio World Models**|Fan Zhang et.al.|[2512.08405](http://arxiv.org/abs/2512.08405)|null|
+|**2025-12-09**|**HybridToken-VLM: Hybrid Token Compression for Vision-Language Models**|Jusheng Zhang et.al.|[2512.08240](http://arxiv.org/abs/2512.08240)|null|
+|**2025-12-08**|**CFD-copilot: leveraging domain-adapted large language model and model context protocol to enhance simulation automation**|Zhehao Dong et.al.|[2512.07917](http://arxiv.org/abs/2512.07917)|null|
+|**2025-12-08**|**Lang3D-XL: Language Embedded 3D Gaussians for Large-scale Scenes**|Shai Krakovsky et.al.|[2512.07807](http://arxiv.org/abs/2512.07807)|null|
+|**2025-12-08**|**ReasonBENCH: Benchmarking the (In)Stability of LLM Reasoning**|Nearchos Potamitis et.al.|[2512.07795](http://arxiv.org/abs/2512.07795)|null|
+|**2025-12-08**|**Comparative Analysis and Parametric Tuning of PPO, GRPO, and DAPO for LLM Reasoning Enhancement**|Yongsheng Lian et.al.|[2512.07611](http://arxiv.org/abs/2512.07611)|null|
+|**2025-12-08**|**Revolutionizing Mixed Precision Quantization: Towards Training-free Automatic Proxy Discovery via Large Language Models**|Haidong Kang et.al.|[2512.07419](http://arxiv.org/abs/2512.07419)|null|
+|**2025-12-08**|**Venus: An Efficient Edge Memory-and-Retrieval System for VLM-based Online Video Understanding**|Shengyuan Ye et.al.|[2512.07344](http://arxiv.org/abs/2512.07344)|null|
+|**2025-12-08**|**Think-Reflect-Revise: A Policy-Guided Reflective Framework for Safety Alignment in Large Vision Language Models**|Fenghua Weng et.al.|[2512.07141](http://arxiv.org/abs/2512.07141)|null|
+|**2025-12-08**|**DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning**|Nithin Sivakumaran et.al.|[2512.07132](http://arxiv.org/abs/2512.07132)|null|
+|**2025-12-07**|**ProAgent: Harnessing On-Demand Sensory Contexts for Proactive LLM Agent Systems**|Bufang Yang et.al.|[2512.06721](http://arxiv.org/abs/2512.06721)|null|
+|**2025-12-07**|**The Evolution of Agentic AI in Cybersecurity: From Single LLM Reasoners to Multi-Agent Systems and Autonomous Pipelines**|Vaishali Vinay et.al.|[2512.06659](http://arxiv.org/abs/2512.06659)|null|
+|**2025-12-05**|**SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models**|Haowen Liu et.al.|[2512.05955](http://arxiv.org/abs/2512.05955)|null|
+|**2025-12-05**|**Interleaved Latent Visual Reasoning with Selective Perceptual Modeling**|Shuai Dong et.al.|[2512.05665](http://arxiv.org/abs/2512.05665)|null|
+|**2025-12-08**|**Know-Show: Benchmarking Video-Language Models on Spatio-Temporal Grounded Reasoning**|Chinthani Sugandhika et.al.|[2512.05513](http://arxiv.org/abs/2512.05513)|null|
+|**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
+|**2025-12-04**|**STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions**|Junjie Fan et.al.|[2512.04871](http://arxiv.org/abs/2512.04871)|null|
+|**2025-12-09**|**SlideGen: Collaborative Multimodal Agents for Scientific Slide Generation**|Xin Liang et.al.|[2512.04529](http://arxiv.org/abs/2512.04529)|null|
+|**2025-12-04**|**Efficient Reinforcement Learning with Semantic and Token Entropy for LLM Reasoning**|Hongye Cao et.al.|[2512.04359](http://arxiv.org/abs/2512.04359)|null|
+|**2025-12-04**|**Counting Without Running: Evaluating LLMs' Reasoning About Code Complexity**|Gregory Bolet et.al.|[2512.04355](http://arxiv.org/abs/2512.04355)|null|
+|**2025-12-15**|**MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation**|Xiaobei Zhao et.al.|[2512.03958](http://arxiv.org/abs/2512.03958)|null|
+|**2025-12-04**|**Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning**|Dongchao Yang et.al.|[2512.03783](http://arxiv.org/abs/2512.03783)|null|
+|**2025-12-03**|**AR-Med: Automated Relevance Enhancement in Medical Search via LLM-Driven Information Augmentation**|Chuyue Wang et.al.|[2512.03737](http://arxiv.org/abs/2512.03737)|null|
 |**2025-11-20**|**EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards**|Omkat Thawakar et.al.|[2511.16672](http://arxiv.org/abs/2511.16672)|null|
 |**2025-11-20**|**Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation**|Ziyu Guo et.al.|[2511.16671](http://arxiv.org/abs/2511.16671)|null|
 |**2025-11-20**|**Learning to Think Fast and Slow for Visual Language Models**|Chenyu Lin et.al.|[2511.16670](http://arxiv.org/abs/2511.16670)|null|
