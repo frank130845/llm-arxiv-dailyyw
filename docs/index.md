@@ -14,7 +14,7 @@ layout: default
 |**2025-12-16**|**Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model**|Heyi Chen et.al.|[2512.13507](http://arxiv.org/abs/2512.13507)|null|
 |**2025-12-14**|**CoDA: A Context-Decoupled Hierarchical Agent with Reinforcement Learning**|Xuanzhang Liu et.al.|[2512.12716](http://arxiv.org/abs/2512.12716)|null|
 |**2025-12-09**|**Aesthetic Alignment Risks Assimilation: How Image Generation and Reward Models Reinforce Beauty Bias and Ideological "Censorship"**|Wenqi Marshall Guo et.al.|[2512.11883](http://arxiv.org/abs/2512.11883)|null|
-|**2025-12-04**|**Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines**|Haoyang Shang et.al.|[2512.11844](http://arxiv.org/abs/2512.11844)|null|
+|**2025-12-16**|**Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines**|Haoyang Shang et.al.|[2512.11844](http://arxiv.org/abs/2512.11844)|null|
 |**2025-12-11**|**Limits and Gains of Test-Time Scaling in Vision-Language Reasoning**|Mohammadjavad Ahmadpour et.al.|[2512.11109](http://arxiv.org/abs/2512.11109)|null|
 |**2025-12-11**|**Multi-Objective Reward and Preference Optimization: Theory and Algorithms**|Akhil Agnihotri et.al.|[2512.10601](http://arxiv.org/abs/2512.10601)|null|
 |**2025-12-11**|**RoleRMBench & RoleRM: Towards Reward Modeling for Profile-Based Role Play in Dialogue Systems**|Hang Ding et.al.|[2512.10575](http://arxiv.org/abs/2512.10575)|null|
@@ -218,4 +218,59 @@ layout: default
 |**2025-11-19**|**IPR-1: Interactive Physical Reasoner**|Mingyu Zhang et.al.|[2511.15407](http://arxiv.org/abs/2511.15407)|null|
 |**2025-11-19**|**DEPO: Dual-Efficiency Preference Optimization for LLM Agents**|Sirui Chen et.al.|[2511.15392](http://arxiv.org/abs/2511.15392)|null|
 |**2025-11-19**|**Breaking Expert Knowledge Limits: Self-Pruning for Large Language Models**|Haidong Kang et.al.|[2511.15390](http://arxiv.org/abs/2511.15390)|null|
+
+## LLM Evaluation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**On the origin of the unusual strain morphologies and polar Moiré patterns in twisted ferroelectrics**|Sergey Prosandeev et.al.|[2512.14633](http://arxiv.org/abs/2512.14633)|null|
+|**2025-12-16**|**Mapping the Optical Landscape of a Squaraine Molecule in the Visible and Ultraviolet Energy Range**|Narges Taghizade et.al.|[2512.14630](http://arxiv.org/abs/2512.14630)|null|
+|**2025-12-16**|**Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies**|Ekaterina Artemova et.al.|[2512.14576](http://arxiv.org/abs/2512.14576)|null|
+|**2025-12-16**|**VLegal-Bench: Cognitively Grounded Benchmark for Vietnamese Legal Reasoning of Large Language Models**|Nguyen Tien Dong et.al.|[2512.14554](http://arxiv.org/abs/2512.14554)|null|
+|**2025-12-16**|**Accurate bandgaps of photovoltaic kesterites from first-principles DFT+U**|Andrew C. Burgess et.al.|[2512.14548](http://arxiv.org/abs/2512.14548)|null|
+|**2025-12-16**|**DASP: Self-supervised Nighttime Monocular Depth Estimation with Domain Adaptation of Spatiotemporal Priors**|Yiheng Huang et.al.|[2512.14536](http://arxiv.org/abs/2512.14536)|null|
+|**2025-12-16**|**A one-parameter two-zone leptonic model for the blazar sequence**|Stella Boula et.al.|[2512.14479](http://arxiv.org/abs/2512.14479)|null|
+|**2025-12-16**|**Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling**|Annu Rana et.al.|[2512.14474](http://arxiv.org/abs/2512.14474)|null|
+|**2025-12-16**|**Reasoning-Style Poisoning of LLM Agents via Stealthy Style Transfer: Process-Level Attacks and Runtime Monitoring in RSV Space**|Xingfu Zhou et.al.|[2512.14448](http://arxiv.org/abs/2512.14448)|null|
+|**2025-12-16**|**Low-temperature behavior of density-functional theory for metals based on density-functional perturbation theory and Sommerfeld expansion**|Xavier Gonze et.al.|[2512.14438](http://arxiv.org/abs/2512.14438)|null|
+|**2025-12-16**|**Unified Semantic Transformer for 3D Scene Understanding**|Sebastian Koch et.al.|[2512.14364](http://arxiv.org/abs/2512.14364)|null|
+|**2025-12-16**|**Sensor free, self regulating thermal switching via anomalous Ettingshausen effect and spin reorientation in DyCo5**|Shibo Wang et.al.|[2512.14335](http://arxiv.org/abs/2512.14335)|null|
+|**2025-12-16**|**PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition**|Abdullah Al Mamun et.al.|[2512.14309](http://arxiv.org/abs/2512.14309)|null|
+|**2025-12-16**|**Improving the Accuracy of Amortized Model Comparison with Self-Consistency**|Šimon Kucharský et.al.|[2512.14308](http://arxiv.org/abs/2512.14308)|null|
+|**2025-12-16**|**Leveraging LLMs for Collaborative Ontology Engineering in Parkinson Disease Monitoring and Alerting**|Georgios Bouchouras et.al.|[2512.14288](http://arxiv.org/abs/2512.14288)|null|
+|**2025-12-16**|**Enhancing Visual Programming for Visual Reasoning via Probabilistic Graphs**|Wentao Wan et.al.|[2512.14257](http://arxiv.org/abs/2512.14257)|null|
+|**2025-12-16**|**Ladder Up, Memory Down: Low-Cost Fine-Tuning With Side Nets**|Estelle Zheng et.al.|[2512.14237](http://arxiv.org/abs/2512.14237)|null|
+|**2025-12-16**|**Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis**|Yankai Jiang et.al.|[2512.14157](http://arxiv.org/abs/2512.14157)|null|
+|**2025-12-16**|**CogMem: A Cognitive Memory Architecture for Sustained Multi-Turn Reasoning in Large Language Models**|Yiran Zhang et.al.|[2512.14118](http://arxiv.org/abs/2512.14118)|null|
+|**2025-12-16**|**HydroGEM: A Self Supervised Zero Shot Hybrid TCN Transformer Foundation Model for Continental Scale Streamflow Quality Control**|Ijaz Ul Haq et.al.|[2512.14106](http://arxiv.org/abs/2512.14106)|null|
+|**2025-12-16**|**ViewMask-1-to-3: Multi-View Consistent Image Generation via Multimodal Diffusion Models**|Ruishu Zhu et.al.|[2512.14099](http://arxiv.org/abs/2512.14099)|null|
+|**2025-12-16**|**A Unified Sparse Attention via Multi-Granularity Compression**|Siran Liu et.al.|[2512.14082](http://arxiv.org/abs/2512.14082)|null|
+|**2025-12-16**|**Intention Chain-of-Thought Prompting with Dynamic Routing for Code Generation**|Shen Li et.al.|[2512.14048](http://arxiv.org/abs/2512.14048)|null|
+|**2025-12-16**|**AsarRec: Adaptive Sequential Augmentation for Robust Self-supervised Sequential Recommendation**|Kaike Zhang et.al.|[2512.14047](http://arxiv.org/abs/2512.14047)|null|
+|**2025-12-16**|**OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving**|Zhenguo Zhang et.al.|[2512.14044](http://arxiv.org/abs/2512.14044)|null|
+|**2025-12-16**|**From Feature Interaction to Feature Generation: A Generative Paradigm of CTR Prediction Models**|Mingjia Yin et.al.|[2512.14041](http://arxiv.org/abs/2512.14041)|null|
+|**2025-12-16**|**DTRec: Learning Dynamic Reasoning Trajectories for Sequential Recommendation**|Yifan Shao et.al.|[2512.14036](http://arxiv.org/abs/2512.14036)|null|
+|**2025-12-16**|**Intent-Guided Reasoning for Sequential Recommendation**|Yifan Shao et.al.|[2512.14034](http://arxiv.org/abs/2512.14034)|null|
+|**2025-12-16**|**Self-sustained microcomb lasing in an integrated hybrid oscillator**|Bitao Shen et.al.|[2512.14005](http://arxiv.org/abs/2512.14005)|null|
+|**2025-12-16**|**ReflCtrl: Controlling LLM Reflection via Representation Engineering**|Ge Yan et.al.|[2512.13979](http://arxiv.org/abs/2512.13979)|null|
+|**2025-12-15**|**Hierarchical Multi-agent Large Language Model Reasoning for Autonomous Functional Materials Discovery**|Samuel Rothfarb et.al.|[2512.13930](http://arxiv.org/abs/2512.13930)|null|
+|**2025-12-15**|**Let's (not) just put things in Context: Test-Time Training for Long-Context LLMs**|Rachit Bansal et.al.|[2512.13898](http://arxiv.org/abs/2512.13898)|null|
+|**2025-12-15**|**Renormalization group for spectral collapse in random matrices with power-law variance profiles**|Philipp Fleig et.al.|[2512.13883](http://arxiv.org/abs/2512.13883)|null|
+|**2025-12-15**|**Route-DETR: Pairwise Query Routing in Transformers for Object Detection**|Ye Zhang et.al.|[2512.13876](http://arxiv.org/abs/2512.13876)|null|
+|**2025-12-15**|**EvoLattice: Persistent Internal-Population Evolution through Multi-Alternative Quality-Diversity Graph Representations for LLM-Guided Program Discovery**|Kamer Ali Yuksel et.al.|[2512.13857](http://arxiv.org/abs/2512.13857)|null|
+|**2025-12-15**|**A minimalist approach to BL Lacertae: explaining gamma-ray spectral and temporal variability with a single physical parameter**|Raniere de Menezes et.al.|[2512.13785](http://arxiv.org/abs/2512.13785)|null|
+|**2025-12-15**|**XID+PRIMA, II: Stepping Through Hyperspectral Imaging to Deblend PRIMAger Beyond the Extragalactic Confusion Limit**|J. M. S. Donnellan et.al.|[2512.13682](http://arxiv.org/abs/2512.13682)|null|
+|**2025-12-15**|**Towards Interactive Intelligence for Digital Humans**|Yiyi Cai et.al.|[2512.13674](http://arxiv.org/abs/2512.13674)|null|
+|**2025-12-15**|**A Scientific Reasoning Model for Organic Synthesis Procedure Generation**|Guoqing Liu et.al.|[2512.13668](http://arxiv.org/abs/2512.13668)|null|
+|**2025-12-15**|**RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics**|Enshen Zhou et.al.|[2512.13660](http://arxiv.org/abs/2512.13660)|null|
+|**2025-12-15**|**CrFe2Ge2: Investigation of novel ferromagnetic material of Fe13Ge8-type crystal**|P. L. S. Cambalame et.al.|[2512.13611](http://arxiv.org/abs/2512.13611)|null|
+|**2025-12-15**|**Leptonic and Hadronic Models of High-energy Nebula Around V4641 Sgr**|Maksim Kleimenov et.al.|[2512.13578](http://arxiv.org/abs/2512.13578)|null|
+|**2025-12-15**|**Fermionic versus Bosonic Dark Matter in Neutron Stars: A Bayesian Study with Multi-Density Constraints**|Payaswinee Arvikar et.al.|[2512.13574](http://arxiv.org/abs/2512.13574)|null|
+|**2025-12-15**|**The Serendipitous Axiodilaton: A Self-Consistent Recombination-Era Solution to the Hubble Tension**|Adam Smith et.al.|[2512.13544](http://arxiv.org/abs/2512.13544)|null|
+|**2025-12-15**|**Linear magnetoresistance of two-dimensional massless Dirac fermions in the quantum limit**|Xiao-Bin Qiang et.al.|[2512.13475](http://arxiv.org/abs/2512.13475)|null|
+|**2025-12-15**|**Self-Supervised Ultrasound Representation Learning for Renal Anomaly Prediction in Prenatal Imaging**|Youssef Megahed et.al.|[2512.13434](http://arxiv.org/abs/2512.13434)|null|
+|**2025-12-15**|**Comparative analysis of critical regions for the renormalized quark-meson model with and without Polyakov loop potential**|Akanksha Tripathi et.al.|[2512.13398](http://arxiv.org/abs/2512.13398)|null|
+|**2025-12-15**|**Statistical properties of spicules in MURaM-ChE**|Sanghita Chandra et.al.|[2512.13390](http://arxiv.org/abs/2512.13390)|null|
+|**2025-12-15**|**Tidally Perturbed, Rotating Stellar Systems: Asynchronous Equilibria**|Lucy A. Z. Arditi et.al.|[2512.13287](http://arxiv.org/abs/2512.13287)|null|
+|**2025-12-15**|**AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning**|Jiaru Zou et.al.|[2512.13278](http://arxiv.org/abs/2512.13278)|null|
 
