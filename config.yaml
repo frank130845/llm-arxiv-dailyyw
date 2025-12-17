@@ -13,17 +13,73 @@ json_gitpage_path: './docs/llm-arxiv-daily-web.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
+"LLM Reasoning":
+  include:
+    # core
+    - '"large language model"'
+    - LLM
+    - '"foundation model"'
+    # reasoning umbrella
+    - reasoning
+    - '"multi-step"'
+    - '"step-by-step"'
+    # methods
+    - '"chain-of-thought"'
+    - CoT
+    - '"self-consistency"'
+    - '"tree of thoughts"'
+    - ToT
+    - verifier
+    - '"process reward model"'
+    - PRM
+    - reflection
+    - '"test-time compute"'
+    - planning
+    - '"tool use"'
+    # types
+    - '"logical reasoning"'
+    - '"commonsense reasoning"'
+    - '"causal reasoning"'
+    - counterfactual
+    - intervention
+    - '"mathematical reasoning"'
+    - '"algorithmic reasoning"'
+    - '"code reasoning"'
 
+  multimodal_include:
+    - MLLM
+    - '"multimodal large language model"'
+    - VLM
+    - '"vision-language model"'
+    - '"visual reasoning"'
+    - '"grounded reasoning"'
+    - '"multimodal chain-of-thought"'
+
+  exclude:
+    - '"clinical reasoning"'
+    - '"diagnostic reasoning"'
+    - education
+    - pedagogy
+    - student
+    - law
+    - legal
+    - jurisprudence
+    - hardware
+    - chip
+    - accelerator
+    - '"inference engine"'
+    - neuroscience
+    - '"human reasoning"'
 # keywords to search
-keywords:
-    "LLM Reasoning":
-        filters: ["LLM Reasoning", "LLM Thinking", "LLM Causal Reasoning", "LLM Commonsense Reasoning", "LLM Logical Reasoning", "Multimodal Reasoning", "MLLM Reasoning", "VLM Reasoning", "Multimodal LLM Reasoning"]
-    # "LLM Evaluation":
-    # #     filters: ["LLM Evaluation", "Benchmark", "Vision-Language Benchmark", "LLM Benchmark", "LLM Evaluation Metric", "LLM Evaluation Protocol", "LLM Evaluation Dataset"]
-    # # "LLM MLLM":
-    #     filters: ["LLM", "Large Language Model", "MLLM", "Multi-modal Large Language Model", "Large Vision-Language Model", "Foundation Model", "Universal Model", "General Model"]
-    # # "Video Understanding":
-    #     filters: ["Video Understanding", "Video Caption", "Visual Language Navigation", "Video Question Answering", "Video Recognition", "Video Retrieval", "Video Generation"]
+# keywords:
+#     "LLM Reasoning":
+#         filters: ["LLM Reasoning", "LLM Thinking", "LLM Causal Reasoning", "LLM Commonsense Reasoning", "LLM Logical Reasoning", "Multimodal Reasoning", "MLLM Reasoning", "VLM Reasoning", "Multimodal LLM Reasoning"]
+#     # "LLM Evaluation":
+#     # #     filters: ["LLM Evaluation", "Benchmark", "Vision-Language Benchmark", "LLM Benchmark", "LLM Evaluation Metric", "LLM Evaluation Protocol", "LLM Evaluation Dataset"]
+#     # # "LLM MLLM":
+#     #     filters: ["LLM", "Large Language Model", "MLLM", "Multi-modal Large Language Model", "Large Vision-Language Model", "Foundation Model", "Universal Model", "General Model"]
+#     # # "Video Understanding":
+#     #     filters: ["Video Understanding", "Video Caption", "Visual Language Navigation", "Video Question Answering", "Video Recognition", "Video Retrieval", "Video Generation"]
    
    
     "Process Reward":
