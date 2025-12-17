@@ -13,63 +13,11 @@ json_gitpage_path: './docs/llm-arxiv-daily-web.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
-"LLM Reasoning":
-  include:
-    # core
-    - '"large language model"'
-    - LLM
-    - '"foundation model"'
-    # reasoning umbrella
-    - reasoning
-    - '"multi-step"'
-    - '"step-by-step"'
-    # methods
-    - '"chain-of-thought"'
-    - CoT
-    - '"self-consistency"'
-    - '"tree of thoughts"'
-    - ToT
-    - verifier
-    - '"process reward model"'
-    - PRM
-    - reflection
-    - '"test-time compute"'
-    - planning
-    - '"tool use"'
-    # types
-    - '"logical reasoning"'
-    - '"commonsense reasoning"'
-    - '"causal reasoning"'
-    - counterfactual
-    - intervention
-    - '"mathematical reasoning"'
-    - '"algorithmic reasoning"'
-    - '"code reasoning"'
+keywords:
 
-  multimodal_include:
-    - MLLM
-    - '"multimodal large language model"'
-    - VLM
-    - '"vision-language model"'
-    - '"visual reasoning"'
-    - '"grounded reasoning"'
-    - '"multimodal chain-of-thought"'
+“LLM Reasoning”:
 
-  exclude:
-    - '"clinical reasoning"'
-    - '"diagnostic reasoning"'
-    - education
-    - pedagogy
-    - student
-    - law
-    - legal
-    - jurisprudence
-    - hardware
-    - chip
-    - accelerator
-    - '"inference engine"'
-    - neuroscience
-    - '"human reasoning"'
+filters: [“LLM Reasoning”, “Large Language Model Reasoning”, “Reasoning in Large Language Models”, “LLM Multi-step Reasoning”, “LLM Step-by-step Reasoning”, “Chain-of-Thought”, “CoT Prompting”, “Reasoning Trace”, “Self-Consistency”, “Tree of Thoughts”, “Graph of Thoughts”, “LLM Planning”, “Tool-use Reasoning”, “LLM Logical Reasoning”, “LLM Deductive Reasoning”, “LLM Causal Reasoning”, “LLM Counterfactual Reasoning”, “LLM Commonsense Reasoning”, “LLM Mathematical Reasoning”, “LLM Algorithmic Reasoning”, “LLM Code Reasoning”, “Multimodal Reasoning”, “Multimodal Chain-of-Thought”, “MLLM Reasoning”, “Multimodal Large Language Model Reasoning”, “VLM Reasoning”, “Vision-Language Model Reasoning”, “Visual Reasoning”, “Grounded Reasoning”, “Vision-Language Reasoning”, “Multimodal LLM Reasoning”]
 # keywords to search
 # keywords:
 #     "LLM Reasoning":
