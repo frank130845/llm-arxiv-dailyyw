@@ -204,3 +204,6 @@ fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：Fa
 To https://github.com/frank130845/llm-arxiv-dailyyw.git
    1332e7f..1de10ee  main -> main
 Everything up-to-date
+/home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
