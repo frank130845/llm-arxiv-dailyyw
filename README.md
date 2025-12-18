@@ -1,4 +1,4 @@
-## Updated on 2025.12.17
+## Updated on 2025.12.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**DreamPRM-Code: Function-as-Step Process Reward Model with Label Correction for LLM Coding**|Ruiyi Zhang et.al.|[2512.15000](http://arxiv.org/abs/2512.15000)|null|
 |**2025-12-16**|**PushGen: Push Notifications Generation with LLM**|Shifu Bie et.al.|[2512.14490](http://arxiv.org/abs/2512.14490)|null|
 |**2025-12-16**|**A First-Order Logic-Based Alternative to Reward Models in RLHF**|Chunjin Jian et.al.|[2512.14100](http://arxiv.org/abs/2512.14100)|null|
 |**2025-12-16**|**DTRec: Learning Dynamic Reasoning Trajectories for Sequential Recommendation**|Yifan Shao et.al.|[2512.14036](http://arxiv.org/abs/2512.14036)|null|
@@ -116,12 +117,20 @@
 |**2025-11-18**|**Enhancing Generalization of Depth Estimation Foundation Model via Weakly-Supervised Adaptation with Regularization**|Yan Huang et.al.|[2511.14238](http://arxiv.org/abs/2511.14238)|null|
 |**2025-11-18**|**LLM-Aligned Geographic Item Tokenization for Local-Life Recommendation**|Hao Jiang et.al.|[2511.14221](http://arxiv.org/abs/2511.14221)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
 
 ## LLM Reasoning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning**|Zhenwen Liang et.al.|[2512.15687](http://arxiv.org/abs/2512.15687)|null|
+|**2025-12-17**|**Stepwise Think-Critique: A Unified Framework for Robust and Interpretable LLM Reasoning**|Jiaqi Xu et.al.|[2512.15662](http://arxiv.org/abs/2512.15662)|null|
+|**2025-12-17**|**Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning**|Yiliu Sun et.al.|[2512.15274](http://arxiv.org/abs/2512.15274)|null|
+|**2025-12-17**|**EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence**|Jiaxu Wan et.al.|[2512.15160](http://arxiv.org/abs/2512.15160)|null|
+|**2025-12-17**|**Beyond Fast and Slow: Cognitive-Inspired Elastic Reasoning for Large Language Models**|Jinwu Hu et.al.|[2512.15089](http://arxiv.org/abs/2512.15089)|null|
+|**2025-12-17**|**SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification**|Hongbo Wang et.al.|[2512.15052](http://arxiv.org/abs/2512.15052)|null|
+|**2025-12-16**|**Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings**|Changshu Liu et.al.|[2512.14917](http://arxiv.org/abs/2512.14917)|null|
+|**2025-12-16**|**Vibe Spaces for Creatively Connecting and Expressing Visual Concepts**|Huzheng Yang et.al.|[2512.14884](http://arxiv.org/abs/2512.14884)|null|
 |**2025-12-16**|**Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies**|Ekaterina Artemova et.al.|[2512.14576](http://arxiv.org/abs/2512.14576)|null|
 |**2025-12-16**|**DTRec: Learning Dynamic Reasoning Trajectories for Sequential Recommendation**|Yifan Shao et.al.|[2512.14036](http://arxiv.org/abs/2512.14036)|null|
 |**2025-12-07**|**LoopBench: Discovering Emergent Symmetry Breaking Strategies with LLM Swarms**|Ali Parsaee et.al.|[2512.13713](http://arxiv.org/abs/2512.13713)|null|
@@ -226,16 +235,51 @@
 |**2025-11-19**|**DEPO: Dual-Efficiency Preference Optimization for LLM Agents**|Sirui Chen et.al.|[2511.15392](http://arxiv.org/abs/2511.15392)|null|
 |**2025-11-19**|**Breaking Expert Knowledge Limits: Self-Pruning for Large Language Models**|Haidong Kang et.al.|[2511.15390](http://arxiv.org/abs/2511.15390)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
 
 ## LLM Evaluation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**End-to-End Training for Autoregressive Video Diffusion via Self-Resampling**|Yuwei Guo et.al.|[2512.15702](http://arxiv.org/abs/2512.15702)|null|
+|**2025-12-17**|**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression**|Kyle Sargent et.al.|[2512.15701](http://arxiv.org/abs/2512.15701)|null|
+|**2025-12-17**|**Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning**|Zhenwen Liang et.al.|[2512.15687](http://arxiv.org/abs/2512.15687)|null|
+|**2025-12-17**|**Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers**|Adam Karvonen et.al.|[2512.15674](http://arxiv.org/abs/2512.15674)|null|
+|**2025-12-17**|**Explaining the Reasoning of Large Language Models Using Attribution Graphs**|Chase Walker et.al.|[2512.15663](http://arxiv.org/abs/2512.15663)|null|
+|**2025-12-17**|**Stepwise Think-Critique: A Unified Framework for Robust and Interpretable LLM Reasoning**|Jiaqi Xu et.al.|[2512.15662](http://arxiv.org/abs/2512.15662)|null|
+|**2025-12-17**|**MoonSeg3R: Monocular Online Zero-Shot Segment Anything in 3D with Reconstructive Foundation Priors**|Zhipeng Du et.al.|[2512.15577](http://arxiv.org/abs/2512.15577)|null|
+|**2025-12-17**|**Self-Quenching Effect of the Decay of Localized Surface Plasmons: Classical and Quantum Perspectives**|Krystyna Kolwas et.al.|[2512.15553](http://arxiv.org/abs/2512.15553)|null|
+|**2025-12-17**|**VAAS: Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics**|Opeyemi Bamigbade et.al.|[2512.15512](http://arxiv.org/abs/2512.15512)|null|
+|**2025-12-17**|**The role of the exchange-Coulomb potential in two-dimensional electron transport**|J. L. Figueiredo et.al.|[2512.15456](http://arxiv.org/abs/2512.15456)|null|
+|**2025-12-17**|**Copyright Infringement Risk Reduction via Chain-of-Thought and Task Instruction Prompting**|Neeraj Sarna et.al.|[2512.15442](http://arxiv.org/abs/2512.15442)|null|
+|**2025-12-17**|**Preserving Marker Specificity with Lightweight Channel-Independent Representation Learning**|Simon Gutwein et.al.|[2512.15410](http://arxiv.org/abs/2512.15410)|null|
+|**2025-12-17**|**Three-Dimensional Radio Localization: A Channel Charting-Based Approach**|Phillip Stephan et.al.|[2512.15399](http://arxiv.org/abs/2512.15399)|null|
+|**2025-12-17**|**Dual-Density Inference for Efficient Language Model Reasoning**|Zhengyi Zhao et.al.|[2512.15358](http://arxiv.org/abs/2512.15358)|null|
+|**2025-12-17**|**Automatic generation of input files with optimised k-point meshes for Quantum Espresso self-consistent field single point total energy calculations**|Elena Patyukova et.al.|[2512.15303](http://arxiv.org/abs/2512.15303)|null|
+|**2025-12-17**|**Topological Metric for Unsupervised Embedding Quality Evaluation**|Aleksei Shestov et.al.|[2512.15285](http://arxiv.org/abs/2512.15285)|null|
+|**2025-12-17**|**Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning**|Yiliu Sun et.al.|[2512.15274](http://arxiv.org/abs/2512.15274)|null|
+|**2025-12-17**|**Laser-Induced Current Transients in Ultrafast All-Optical Switching of Metallic Spin Valves**|Serban Lepadatu et.al.|[2512.15247](http://arxiv.org/abs/2512.15247)|null|
+|**2025-12-17**|**EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence**|Jiaxu Wan et.al.|[2512.15160](http://arxiv.org/abs/2512.15160)|null|
+|**2025-12-17**|**Explainable Action Form Assessment by Exploiting Multimodal Chain-of-Thoughts Reasoning**|Mengshi Qi et.al.|[2512.15153](http://arxiv.org/abs/2512.15153)|null|
+|**2025-12-17**|**Dual-coding contrastive learning based on ConvNeXt and ViT models for morphological classification of galaxies in COSMOS-Web**|Shiwei Zhu et.al.|[2512.15129](http://arxiv.org/abs/2512.15129)|null|
+|**2025-12-17**|**FADTI: Fourier and Attention Driven Diffusion for Multivariate Time Series Imputation**|Runze Li et.al.|[2512.15116](http://arxiv.org/abs/2512.15116)|null|
+|**2025-12-17**|**Beyond Fast and Slow: Cognitive-Inspired Elastic Reasoning for Large Language Models**|Jinwu Hu et.al.|[2512.15089](http://arxiv.org/abs/2512.15089)|null|
+|**2025-12-17**|**SigMA: Path Signatures and Multi-head Attention for Learning Parameters in fBm-driven SDEs**|Xianglin Wu et.al.|[2512.15088](http://arxiv.org/abs/2512.15088)|null|
+|**2025-12-17**|**SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification**|Hongbo Wang et.al.|[2512.15052](http://arxiv.org/abs/2512.15052)|null|
+|**2025-12-17**|**Evaluating Large Language Models on Multimodal Chemistry Olympiad Exams**|Yiming Cui et.al.|[2512.14989](http://arxiv.org/abs/2512.14989)|null|
+|**2025-12-16**|**Puzzle Curriculum GRPO for Vision-Centric Reasoning**|Ahmadreza Jeddi et.al.|[2512.14944](http://arxiv.org/abs/2512.14944)|null|
+|**2025-12-16**|**Sample-based quantum diagonalization as parallel fragment solver for the localized active space self-consistent field method**|Qiaohong Wang et.al.|[2512.14936](http://arxiv.org/abs/2512.14936)|null|
+|**2025-12-16**|**Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings**|Changshu Liu et.al.|[2512.14917](http://arxiv.org/abs/2512.14917)|null|
+|**2025-12-16**|**On the applicability of the cumulant expansion method for the calculation of transport properties in electron-phonon systems**|Petar Mitrić et.al.|[2512.14900](http://arxiv.org/abs/2512.14900)|null|
+|**2025-12-16**|**BASILISK IV. No $S_8$ Tension with Satellite Kinematics**|Kaustav Mitra et.al.|[2512.14889](http://arxiv.org/abs/2512.14889)|null|
+|**2025-12-16**|**Vibe Spaces for Creatively Connecting and Expressing Visual Concepts**|Huzheng Yang et.al.|[2512.14884](http://arxiv.org/abs/2512.14884)|null|
+|**2025-12-16**|**Supermassive black-hole imaging with a self-consistent electron-temperature prescription**|Alejandro Cruz-Osorio et.al.|[2512.14835](http://arxiv.org/abs/2512.14835)|null|
+|**2025-12-16**|**Super-Eddington Chimneys: On the Cooling Evolution of Tidal Disruption Event Envelopes**|Semih Tuna et.al.|[2512.14810](http://arxiv.org/abs/2512.14810)|null|
+|**2025-12-16**|**Magnification-Aware Distillation (MAD): A Self-Supervised Framework for Unified Representation Learning in Gigapixel Whole-Slide Images**|Mahmut S. Gokmen et.al.|[2512.14796](http://arxiv.org/abs/2512.14796)|null|
 |**2025-12-16**|**On the origin of the unusual strain morphologies and polar Moiré patterns in twisted ferroelectrics**|Sergey Prosandeev et.al.|[2512.14633](http://arxiv.org/abs/2512.14633)|null|
 |**2025-12-16**|**Mapping the Optical Landscape of a Squaraine Molecule in the Visible and Ultraviolet Energy Range**|Narges Taghizade et.al.|[2512.14630](http://arxiv.org/abs/2512.14630)|null|
 |**2025-12-16**|**Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies**|Ekaterina Artemova et.al.|[2512.14576](http://arxiv.org/abs/2512.14576)|null|
-|**2025-12-16**|**VLegal-Bench: Cognitively Grounded Benchmark for Vietnamese Legal Reasoning of Large Language Models**|Nguyen Tien Dong et.al.|[2512.14554](http://arxiv.org/abs/2512.14554)|null|
+|**2025-12-17**|**VLegal-Bench: Cognitively Grounded Benchmark for Vietnamese Legal Reasoning of Large Language Models**|Nguyen Tien Dong et.al.|[2512.14554](http://arxiv.org/abs/2512.14554)|null|
 |**2025-12-16**|**Accurate bandgaps of photovoltaic kesterites from first-principles DFT+U**|Andrew C. Burgess et.al.|[2512.14548](http://arxiv.org/abs/2512.14548)|null|
 |**2025-12-16**|**DASP: Self-supervised Nighttime Monocular Depth Estimation with Domain Adaptation of Spatiotemporal Priors**|Yiheng Huang et.al.|[2512.14536](http://arxiv.org/abs/2512.14536)|null|
 |**2025-12-16**|**A one-parameter two-zone leptonic model for the blazar sequence**|Stella Boula et.al.|[2512.14479](http://arxiv.org/abs/2512.14479)|null|
@@ -283,5 +327,5 @@
 |**2025-12-15**|**Tidally Perturbed, Rotating Stellar Systems: Asynchronous Equilibria**|Lucy A. Z. Arditi et.al.|[2512.13287](http://arxiv.org/abs/2512.13287)|null|
 |**2025-12-15**|**AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning**|Jiaru Zou et.al.|[2512.13278](http://arxiv.org/abs/2512.13278)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
 
