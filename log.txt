@@ -264,3 +264,11 @@ Everything up-to-date
 /home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
+[main 5de9aaf] 📚 update
+ 1 file changed, 8 insertions(+)
+fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：Could not resolve host: github.com
+To https://github.com/frank130845/llm-arxiv-dailyyw.git
+   19690a8..5de9aaf  main -> main
+/home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
