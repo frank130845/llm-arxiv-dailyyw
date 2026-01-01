@@ -316,3 +316,11 @@ fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：Fa
 /home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
+[main 90d406e] 📚 update
+ 1 file changed, 7 insertions(+)
+To https://github.com/frank130845/llm-arxiv-dailyyw.git
+   d20a519..90d406e  main -> main
+Everything up-to-date
+/home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
