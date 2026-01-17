@@ -444,3 +444,11 @@ Everything up-to-date
 /home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
+[main 28573dc] 📚 update
+ 1 file changed, 8 insertions(+)
+fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+To https://github.com/frank130845/llm-arxiv-dailyyw.git
+   68bcc44..28573dc  main -> main
+/home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
