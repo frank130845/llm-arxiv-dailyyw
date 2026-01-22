@@ -483,3 +483,13 @@ fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：Fa
 /home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
+[main c780dab] 📚 update
+ 1 file changed, 7 insertions(+)
+error: RPC 失败。curl 16 Error in the HTTP2 framing layer
+send-pack: unexpected disconnect while reading sideband packet
+fatal: 远端意外挂断了
+Everything up-to-date
+fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：Failed to connect to github.com port 443 after 132953 ms: 连接超时
+/home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
