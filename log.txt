@@ -553,3 +553,13 @@ fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：Fa
 /home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
+[main 7b50c85] 📚 update
+ 1 file changed, 7 insertions(+)
+fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：HTTP/2 stream 1 was not closed cleanly before end of the underlying stream
+error: RPC 失败。curl 16 Error in the HTTP2 framing layer
+send-pack: unexpected disconnect while reading sideband packet
+fatal: 远端意外挂断了
+Everything up-to-date
+/home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
