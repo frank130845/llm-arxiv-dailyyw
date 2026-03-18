@@ -17,7 +17,7 @@ md_gitpage_path: './docs/index.md'
 # keywords to search
 keywords:
     "Agent":
-        filters: ["LLM Reasoning", "Agent"]
+        filters: ["LLM Reasoning", "Agent", "Planning", "Decision Making", "Tool Use", "Function Calling", "RAG", "Memory", "Multi-Agent Systems", "Agent Collaboration", "Reinforcement Learning", "Self-Improvement", "Human-Agent Interaction"]
     "LLM Reasoning":
         filters: ["LLM Reasoning", "LLM Thinking", "LLM Causal Reasoning", "LLM Commonsense Reasoning", "LLM Logical Reasoning", "Multimodal Reasoning", "MLLM Reasoning", "VLM Reasoning", "Multimodal LLM Reasoning"]
     "LLM Evaluation":
