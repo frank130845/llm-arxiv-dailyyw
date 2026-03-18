@@ -16,6 +16,8 @@ md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
+    "Agent":
+        filters: ["LLM Reasoning", "Agent"]
     "LLM Reasoning":
         filters: ["LLM Reasoning", "LLM Thinking", "LLM Causal Reasoning", "LLM Commonsense Reasoning", "LLM Logical Reasoning", "Multimodal Reasoning", "MLLM Reasoning", "VLM Reasoning", "Multimodal LLM Reasoning"]
     "LLM Evaluation":
@@ -24,8 +26,7 @@ keywords:
     #     filters: ["LLM", "Large Language Model", "MLLM", "Multi-modal Large Language Model", "Large Vision-Language Model", "Foundation Model", "Universal Model", "General Model"]
     # # "Video Understanding":
     #     filters: ["Video Understanding", "Video Caption", "Visual Language Navigation", "Video Question Answering", "Video Recognition", "Video Retrieval", "Video Generation"]
-    "Agent":
-        filters: ["LLM Reasoning", "Agent"]
+
    
    
     "Process Reward":
