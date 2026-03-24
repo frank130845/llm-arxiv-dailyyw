@@ -16,7 +16,9 @@ md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
-    # "Agentrl":
+    "Agentrl111":
+        filters: ["Multi-Agent Reinforcement Learning", "MARL", "Cooperative Multi-Agent Reinforcement Learning", "Centralized Training Decentralized Execution", "Multi-Agent Communication",]
+        # "Agentrl":
     #     filters: ["Agent", "Multi-Agent Systems", "Agent Collaboration", "Self-Improvement", "Multi-Agent Reinforcement Learning",]
     "Agentrl":
         filters: ["Agent", "Multi-Agent Systems", "Agent Collaboration", "Self-Improvement", "Multi-Agent Reinforcement Learning", "Multi-Agent Reinforcement Learning (MARL)", "Cooperative Multi-Agent Reinforcement Learning", "Competitive Multi-Agent Reinforcement Learning", "Decentralized Reinforcement Learning", "Centralized Training Decentralized Execution", "CTDE", "Multi-Agent Coordination", "Multi-Agent Communication", "Emergent Communication", "Credit Assignment", "Opponent Modeling", "Self-Play", "Game-Theoretic Reinforcement Learning", "Mean Field Reinforcement Learning", "Hierarchical Multi-Agent Reinforcement Learning", "Offline Multi-Agent Reinforcement Learning", "Model-Based Multi-Agent Reinforcement Learning", "Population-Based Training", "Language Agents", "LLM Multi-Agent", "Multi-Agent LLM", "Multi-Agent RL with LLMs",]

@@ -837,3 +837,58 @@ layout: default
 |**2026-03-19**|**Mean-field control barrier functions for stochastic multi-agent systems**|Cinzia Tomaselli et.al.|[2603.18658](http://arxiv.org/abs/2603.18658)|null|
 |**2026-03-19**|**Expert Personas Improve LLM Alignment but Damage Accuracy: Bootstrapping Intent-Based Persona Routing with PRISM**|Zizhao Hu et.al.|[2603.18507](http://arxiv.org/abs/2603.18507)|null|
 
+## Agentrl111
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Adaptive Robust Estimator for Multi-Agent Reinforcement Learning**|Zhongyi Li et.al.|[2603.21574](http://arxiv.org/abs/2603.21574)|null|
+|**2026-03-21**|**AI-Driven Multi-Agent Simulation of Stratified Polyamory Systems: A Computational Framework for Optimizing Social Reproductive Efficiency**|Yicai Xing et.al.|[2603.20678](http://arxiv.org/abs/2603.20678)|null|
+|**2026-03-20**|**Fluid Antenna Networks Beyond Beamforming: An AI-Native Control Paradigm for 6G**|Ian F. Akyildiz et.al.|[2603.20484](http://arxiv.org/abs/2603.20484)|null|
+|**2026-03-20**|**CAMA: Exploring Collusive Adversarial Attacks in c-MARL**|Men Niu et.al.|[2603.20390](http://arxiv.org/abs/2603.20390)|null|
+|**2026-03-20**|**Bounded Coupled AI Learning Dynamics in Tri-Hierarchical Drone Swarms**|Oleksii Bychkov et.al.|[2603.20333](http://arxiv.org/abs/2603.20333)|null|
+|**2026-03-19**|**MARLIN: Multi-Agent Reinforcement Learning for Incremental DAG Discovery**|Dong Li et.al.|[2603.20295](http://arxiv.org/abs/2603.20295)|null|
+|**2026-03-17**|**Learning Communication Between Heterogeneous Agents in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence**|Alex Popa et.al.|[2603.20279](http://arxiv.org/abs/2603.20279)|null|
+|**2026-03-13**|**JCAS-MARL: Joint Communication and Sensing UAV Networks via Resource-Constrained Multi-Agent Reinforcement Learning**|Islam Guven et.al.|[2603.20265](http://arxiv.org/abs/2603.20265)|null|
+|**2026-03-09**|**Joint Trajectory, RIS, and Computation Offloading Optimization via Decentralized Model-Based PPO in Urban Multi-UAV Mobile Edge Computing**|Liangshun Wu et.al.|[2603.20238](http://arxiv.org/abs/2603.20238)|null|
+|**2026-03-19**|**Stochastic Sequential Decision Making over Expanding Networks with Graph Filtering**|Zhan Gao et.al.|[2603.19501](http://arxiv.org/abs/2603.19501)|null|
+|**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
+|**2026-02-28**|**Multi-Agent Reinforcement Learning for Dynamic Pricing: Balancing Profitability,Stability and Fairness**|Krishna Kumar Neelakanta Pillai Santha Kumari Amma et.al.|[2603.16888](http://arxiv.org/abs/2603.16888)|null|
+|**2026-03-17**|**Multi-Agent Reinforcement Learning Counteracts Delayed CSI in Multi-Satellite Systems**|Marios Aristodemou et.al.|[2603.16470](http://arxiv.org/abs/2603.16470)|null|
+|**2026-03-17**|**Communication-Aware Multi-Agent Reinforcement Learning for Decentralized Cooperative UAV Deployment**|Enguang Fan et.al.|[2603.16141](http://arxiv.org/abs/2603.16141)|null|
+|**2026-03-07**|**Beyond Reward Suppression: Reshaping Steganographic Communication Protocols in MARL via Dynamic Representational Circuit Breaking**|Liu Hung Ming et.al.|[2603.15655](http://arxiv.org/abs/2603.15655)|null|
+|**2026-03-16**|**MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings**|Shahil Shaik et.al.|[2603.15418](http://arxiv.org/abs/2603.15418)|null|
+|**2026-03-16**|**Interference-Aware K-Step Reachable Communication in Multi-Agent Reinforcement Learning**|Ziyu Cheng et.al.|[2603.15054](http://arxiv.org/abs/2603.15054)|null|
+|**2026-03-15**|**EcoFair-CH-MARL: Scalable Constrained Hierarchical Multi-Agent RL with Real-Time Emission Budgets and Fairness Guarantees**|Saad Alqithami et.al.|[2603.14625](http://arxiv.org/abs/2603.14625)|null|
+|**2026-03-12**|**A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control**|Sheng-You Huang et.al.|[2603.12096](http://arxiv.org/abs/2603.12096)|null|
+|**2026-03-12**|**AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling**|Hamed Hamzeh et.al.|[2603.12031](http://arxiv.org/abs/2603.12031)|null|
+|**2026-03-12**|**Learning Visuomotor Policy for Multi-Robot Laser Tag Game**|Kai Li et.al.|[2603.11980](http://arxiv.org/abs/2603.11980)|null|
+|**2026-03-12**|**The price of decentralization in managing engineering systems through multi-agent reinforcement learning**|Prateek Bhustali et.al.|[2603.11884](http://arxiv.org/abs/2603.11884)|null|
+|**2026-03-12**|**STAIRS-Former: Spatio-Temporal Attention with Interleaved Recursive Structure Transformer for Offline Multi-task Multi-agent Reinforcement Learning**|Jiwon Jeon et.al.|[2603.11691](http://arxiv.org/abs/2603.11691)|null|
+|**2026-03-12**|**Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization**|Zhirun Li et.al.|[2603.11582](http://arxiv.org/abs/2603.11582)|null|
+|**2026-03-12**|**Adversarial Reinforcement Learning for Detecting False Data Injection Attacks in Vehicular Routing**|Taha Eghtesad et.al.|[2603.11433](http://arxiv.org/abs/2603.11433)|null|
+|**2026-03-11**|**Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning**|Yuto Shibata et.al.|[2603.11346](http://arxiv.org/abs/2603.11346)|null|
+|**2026-03-11**|**UAV-MARL: Multi-Agent Reinforcement Learning for Time-Critical and Dynamic Medical Supply Delivery**|Islam Guven et.al.|[2603.10528](http://arxiv.org/abs/2603.10528)|null|
+|**2026-03-10**|**Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models**|Daniel Hennes et.al.|[2603.10098](http://arxiv.org/abs/2603.10098)|null|
+|**2026-03-10**|**Strategically Robust Multi-Agent Reinforcement Learning with Linear Function Approximation**|Jake Gonzales et.al.|[2603.09208](http://arxiv.org/abs/2603.09208)|null|
+|**2026-03-09**|**A Recipe for Stable Offline Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[2603.08399](http://arxiv.org/abs/2603.08399)|null|
+|**2026-03-09**|**DeReCo: Decoupling Representation and Coordination Learning for Object-Adaptive Decentralized Multi-Robot Cooperative Transport**|Kazuki Shibata et.al.|[2603.08111](http://arxiv.org/abs/2603.08111)|null|
+|**2026-03-07**|**Learning to Reflect: Hierarchical Multi-Agent Reinforcement Learning for CSI-Free mmWave Beam-Focusing**|Hieu Le et.al.|[2603.07370](http://arxiv.org/abs/2603.07370)|null|
+|**2026-03-07**|**NePPO: Near-Potential Policy Optimization for General-Sum Multi-Agent Reinforcement Learning**|Addison Kalanther et.al.|[2603.06977](http://arxiv.org/abs/2603.06977)|null|
+|**2026-03-06**|**Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration**|Yanjun Chen et.al.|[2603.06859](http://arxiv.org/abs/2603.06859)|null|
+|**2026-03-06**|**Multi-Agent Reinforcement Learning with Submodular Reward**|Wenjing Chen et.al.|[2603.06810](http://arxiv.org/abs/2603.06810)|null|
+|**2026-03-05**|**SCoUT: Scalable Communication via Utility-Guided Temporal Grouping in Multi-Agent Reinforcement Learning**|Manav Vora et.al.|[2603.04833](http://arxiv.org/abs/2603.04833)|null|
+|**2026-03-04**|**Dual-Interaction-Aware Cooperative Control Strategy for Alleviating Mixed Traffic Congestion**|Zhengxuan Liu et.al.|[2603.03848](http://arxiv.org/abs/2603.03848)|null|
+|**2026-03-04**|**Learning Approximate Nash Equilibria in Cooperative Multi-Agent Reinforcement Learning via Mean-Field Subsampling**|Emile Anand et.al.|[2603.03759](http://arxiv.org/abs/2603.03759)|null|
+|**2026-03-04**|**HALyPO: Heterogeneous-Agent Lyapunov Policy Optimization for Human-Robot Collaboration**|Hao Zhang et.al.|[2603.03741](http://arxiv.org/abs/2603.03741)|null|
+|**2026-03-04**|**Principled Learning-to-Communicate with Quasi-Classical Information Structures**|Xiangyu Liu et.al.|[2603.03664](http://arxiv.org/abs/2603.03664)|null|
+|**2026-03-07**|**Generalized Per-Agent Advantage Estimation for Multi-Agent Policy Optimization**|Seongmin Kim et.al.|[2603.02654](http://arxiv.org/abs/2603.02654)|null|
+|**2026-03-03**|**Heterogeneous Agent Collaborative Reinforcement Learning**|Zhixia Zhang et.al.|[2603.02604](http://arxiv.org/abs/2603.02604)|null|
+|**2026-03-02**|**Exploration enhances cooperation in the multi-agent communication system**|Zhao Song et.al.|[2603.01401](http://arxiv.org/abs/2603.01401)|null|
+|**2026-03-01**|**Epistemic Gain, Aleatoric Cost: Uncertainty Decomposition in Multi-Agent Debate for Math Reasoning**|Dan Qiao et.al.|[2603.01221](http://arxiv.org/abs/2603.01221)|null|
+|**2026-03-01**|**CARD: Towards Conditional Design of Multi-agent Topological Structures**|Tongtong Wu et.al.|[2603.01089](http://arxiv.org/abs/2603.01089)|null|
+|**2026-03-01**|**Feasible Pairings for Decentralized Integral Controllability of Non-Square Systems**|Yuhao Tong et.al.|[2603.01076](http://arxiv.org/abs/2603.01076)|null|
+|**2026-02-28**|**MO-MIX: Multi-Objective Multi-Agent Cooperative Decision-Making With Deep Reinforcement Learning**|Tianmeng Hu et.al.|[2603.00730](http://arxiv.org/abs/2603.00730)|null|
+|**2026-02-27**|**TSC: Topology-Conditioned Stackelberg Coordination for Multi-Agent Reinforcement Learning in Interactive Driving**|Xiaotong Zhang et.al.|[2602.23896](http://arxiv.org/abs/2602.23896)|null|
+|**2026-02-26**|**QSIM: Mitigating Overestimation in Multi-Agent Reinforcement Learning via Action Similarity Weighted Q-Learning**|Yuanjun Li et.al.|[2602.22786](http://arxiv.org/abs/2602.22786)|null|
+|**2026-02-26**|**Pixel2Catch: Multi-Agent Sim-to-Real Transfer for Agile Manipulation with a Single RGB Camera**|Seongyong Kim et.al.|[2602.22733](http://arxiv.org/abs/2602.22733)|null|
+
