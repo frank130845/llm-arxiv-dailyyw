@@ -17,7 +17,7 @@ md_gitpage_path: './docs/index.md'
 # keywords to search
 keywords:
     "Agentrl111":
-        filters: ["Multi-Agent Reinforcement Learning", "MARL", "Cooperative Multi-Agent Reinforcement Learning", "Centralized Training Decentralized Execution", "Multi-Agent Communication",]
+        filters: ["Multi-Agent Reinforcement Learning", "MARL", "Cooperative Multi-Agent Reinforcement Learning", "Centralized Training Decentralized Execution", "Multi-Agent Communication","Agentic"]
         # "Agentrl":
     #     filters: ["Agent", "Multi-Agent Systems", "Agent Collaboration", "Self-Improvement", "Multi-Agent Reinforcement Learning",]
     "Agentrl":
