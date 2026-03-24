@@ -16,9 +16,11 @@ md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
-    "Agent":
-        filters: ["LLM Reasoning", "Agent", "Planning", "Decision Making", "Tool Use", "Function Calling", "RAG", "Memory", "Multi-Agent Systems", "Agent Collaboration", "Reinforcement Learning", "Self-Improvement", "Human-Agent Interaction"]
-    # "LLM Reasoning":
+    # "Agentrl":
+    #     filters: ["Agent", "Multi-Agent Systems", "Agent Collaboration", "Self-Improvement", "Multi-Agent Reinforcement Learning",]
+    "Agentrl":
+        filters: ["Agent", "Multi-Agent Systems", "Agent Collaboration", "Self-Improvement", "Multi-Agent Reinforcement Learning", "Multi-Agent Reinforcement Learning (MARL)", "Cooperative Multi-Agent Reinforcement Learning", "Competitive Multi-Agent Reinforcement Learning", "Decentralized Reinforcement Learning", "Centralized Training Decentralized Execution", "CTDE", "Multi-Agent Coordination", "Multi-Agent Communication", "Emergent Communication", "Credit Assignment", "Opponent Modeling", "Self-Play", "Game-Theoretic Reinforcement Learning", "Mean Field Reinforcement Learning", "Hierarchical Multi-Agent Reinforcement Learning", "Offline Multi-Agent Reinforcement Learning", "Model-Based Multi-Agent Reinforcement Learning", "Population-Based Training", "Language Agents", "LLM Multi-Agent", "Multi-Agent LLM", "Multi-Agent RL with LLMs",]
+        # "LLM Reasoning":
     #     filters: ["LLM Reasoning", "LLM Thinking", "LLM Causal Reasoning", "LLM Commonsense Reasoning", "LLM Logical Reasoning", "Multimodal Reasoning", "MLLM Reasoning", "VLM Reasoning", "Multimodal LLM Reasoning"]
     # "LLM Evaluation":
     #     filters: [“LLM Reasoning”, “Large Language Model Reasoning”, “Reasoning in Large Language Models”, “LLM Multi-step Reasoning”, “LLM Step-by-step Reasoning”, “Chain-of-Thought”, “CoT Prompting”, “Reasoning Trace”, “Self-Consistency”, “Tree of Thoughts”, “Graph of Thoughts”, “LLM Planning”, “Tool-use Reasoning”, “LLM Logical Reasoning”, “LLM Deductive Reasoning”, “LLM Causal Reasoning”, “LLM Counterfactual Reasoning”, “LLM Commonsense Reasoning”, “LLM Mathematical Reasoning”, “LLM Algorithmic Reasoning”, “LLM Code Reasoning”, “Multimodal Reasoning”, “Multimodal Chain-of-Thought”, “MLLM Reasoning”, “Multimodal Large Language Model Reasoning”, “VLM Reasoning”, “Vision-Language Model Reasoning”, “Visual Reasoning”, “Grounded Reasoning”, “Vision-Language Reasoning”, “Multimodal LLM Reasoning”]
