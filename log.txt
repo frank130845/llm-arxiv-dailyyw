@@ -1214,3 +1214,10 @@ fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：Co
 /home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
+[main ec3e436] 📚 update
+ 1 file changed, 7 insertions(+)
+fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：Could not resolve host: github.com
+fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：Could not resolve host: github.com
+/home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
