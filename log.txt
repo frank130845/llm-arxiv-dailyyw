@@ -1507,3 +1507,10 @@ Everything up-to-date
 /home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
+[main 19cd3ff] 📚 update
+ 1 file changed, 8 insertions(+)
+fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：Failed to connect to github.com port 443 after 132708 ms: 连接超时
+fatal: 无法访问 'https://github.com/frank130845/llm-arxiv-dailyyw.git/'：Failed to connect to github.com port 443 after 135148 ms: 连接超时
+/home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
