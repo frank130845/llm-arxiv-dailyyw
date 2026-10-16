@@ -2583,3 +2583,13 @@ Everything up-to-date
 /home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
 /home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
+[main a0a94c9] 📚 update
+ 1 file changed, 8 insertions(+)
+warning: 重定向到 https://github.com/frank130845/llm-arxiv-dailyyw.git/
+To https://github.com/frank130845/llm-arxiv-dailyyw.git
+   be6d95d..a0a94c9  main -> main
+warning: 重定向到 https://github.com/frank130845/llm-arxiv-dailyyw.git/
+Everything up-to-date
+/home/frank/frank/llm-arxiv-daily/update.sh: 4: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 5: conda: not found
+/home/frank/frank/llm-arxiv-daily/update.sh: 8: python: not found
